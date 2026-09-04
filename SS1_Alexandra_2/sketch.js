@@ -1,7 +1,14 @@
+
+
+
+
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(700, 500);
 }
 
 function draw() {
-  background(220);
+  background("blue");
+  
+  rect(0, 0, 200, 200);
+
 }
